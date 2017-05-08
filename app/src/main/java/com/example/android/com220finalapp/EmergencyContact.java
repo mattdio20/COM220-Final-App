@@ -47,7 +47,7 @@ public class EmergencyContact extends Activity {
     // Stuff that needs to be stored in app data
 
     Friend savedContact = new Friend();
-    String defaultMessage = "Could you come get me? I'm too drunk to drive.";
+    String defaultMessage = "Could you come get me? I'm too drunk to drive. Here is my location: ";
     String savedMessage = "";
 
 
